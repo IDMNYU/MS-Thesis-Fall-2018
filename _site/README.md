@@ -19,6 +19,8 @@ Office hours: Wednesdays 3pm-5pm or by appointment, MAGNET 874
 
 Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
 
+[FIND THE FULL COURSE MATERIALS WEBSITE HERE](https://idmnyu.github.io/MS-Thesis-Fall-2018/)
+
 
 ![](assets/images/coral2.jpg)
 
