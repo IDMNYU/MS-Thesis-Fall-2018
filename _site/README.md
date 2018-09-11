@@ -13,9 +13,7 @@ Fall 2018 • 3 credit hrs
 
 Instructor: Elizabeth Henaff, ehenaff@nyu.edu
 
-Location: Tuesday 6-8:50 PM • MAGNET 811 
-
-Office hours: Wednesdays 3pm-5pm or by appointment, MAGNET 874
+Location: Tuesdays 6-8:50 PM • MAGNET 811 
 
 Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
 

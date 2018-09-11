@@ -10,11 +10,14 @@
 
 Fall 2018 • 3 credit hrs
 
-Instructor: Elizabeth Henaff, ehenaff@nyu.edu
+Instructor: [Elizabeth Henaff](http://elizabeth-henaff.net), ehenaff@nyu.edu
 
 Location: Tuesday 6-8:50 PM • MAGNET 811 
 
-Office hours: Wednesdays 3pm-5pm or by appointment, MAGNET 874
+Office hours: Tuesdays 5-5:30pm, Wednesdays 2pm-5pm
+MAGNET 874
+
+Schedule office hours slot [here](https://tinyurl.com/office-hours-henaff)
 
 Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
 
