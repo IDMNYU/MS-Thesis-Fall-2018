@@ -109,10 +109,11 @@ Your performance and attendance has been less than adequate. Your thesis is lack
 
 The performance & attendance of the student has not met course requirements. Your thesis shows no overall understanding of the research, design, and/or prototyping phase\(s\) on many levels or either a severe lack of interest.
 
-##### **Attendance**
+##### **Attendance and Assignments**
 
 * Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to exchange a time with a fellow classmate.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
+* Late assignments will be penalized by a 1/2 grade point for each day past assignment due date
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor at least 24h in advance by email if you will not be in class. 
 * absence to observe religious holidays will not be penalized, however the students should give prior notice as described above. 
